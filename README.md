@@ -73,6 +73,55 @@ The evaluation consists of a final work at the end of the course.
 - https://cssauthor.com/free-bootstrap-portfolio-templates/
 
 
+## XI. Groups
+
+| Código   | Apellidos y nombres                       | Grupo   |
+| -------- | ----------------------------------------- | ------- |
+| 20236426 | Salazar Lucano, Marcelo Fernando          | Grupo 1 |
+| 20232119 | Cajavilca Tarazona, Fabian Hernan         | Grupo 1 |
+| 20191172 | Vasquez Sanchez, Guillermo Gabriel Alonso | Grupo 1 |
+| 20182064 | Gil Ore, Diego Rafael                     | Grupo 1 |
+| 20210602 | Montero Goñi, Elías José                  | Grupo 1 |
+| 20191894 | Ttito Collantes, Ilenia Alejandra         | Grupo 2 |
+| 20165881 | Naveros Ayquipa, Kevin Anthony            | Grupo 2 |
+| 20200645 | Inga Gonzales, Juan Diego                 | Grupo 2 |
+| 20222200 | Llona Linares, Daniel Isaias              | Grupo 2 |
+| 20182434 | Puicon Nolasco, Luis Enrique              | Grupo 2 |
+| 20220981 | Choque Tintaya, Josuee Fernando           | Grupo 3 |
+| 20206686 | Leon Castañeda, Andrea                    | Grupo 3 |
+| 20206508 | Matos Pino, Gustavo Bryan                 | Grupo 3 |
+| 20206551 | Seminario Baca, Luis Enrique              | Grupo 3 |
+| 20244078 | Gomez Leon, Andre Jonathan                | Grupo 3 |
+| 20201667 | Luna Garrido, Eduardo                     | Grupo 4 |
+| 20181381 | Alvarado Tafur, Mauricio Andree           | Grupo 4 |
+| 20213126 | Chiroque Lachira, Julio Isaac             | Grupo 4 |
+| 20220998 | Vega Matellini, Flavio David              | Grupo 4 |
+| 20200305 | Perez Veliz, Valeria Jennifer             | Grupo 4 |
+| 20206403 | Huertas Vergara, Claudia Isabel           | Grupo 5 |
+| 20202360 | Gutiérrez Parreño, Diego Fernando         | Grupo 5 |
+| 20226547 | Zavala Huamani, Melany Diana              | Grupo 5 |
+| 20212581 | Diaz Choque, Erick Eduardo                | Grupo 5 |
+| 20233984 | Reyes Morales, Alessandro Yahir           | Grupo 5 |
+| 20191361 | Ascencio Castillo, Victor Josue Rodrigo   | Grupo 6 |
+| 20222281 | Delgado Coronel, Rodrigo Nicolas          | Grupo 6 |
+| 20222144 | Padilla Diaz, Andres Cesar                | Grupo 6 |
+| 20213900 | Chura Condori, Bryan Alexander            | Grupo 6 |
+| 20222008 | Millones Manayay, Favia Marcela           | Grupo 6 |
+| 20183418 | Mendieta Portocarrero, Jesus Jeanpiere    | Grupo 7 |
+| 20222217 | Yangali Rodrigo, Andy Jhair               | Grupo 7 |
+| 20201118 | Sanchez Salazar, Joaquin                  | Grupo 7 |
+| 20213215 | Yika Medrano, Joalhe Cevir                | Grupo 7 |
+| 20221198 | Rendon Hurtado, Gabriel Alejandro         | Grupo 7 |
+| 20193699 | Rivera Esquivel, Sarita Antuane           | Grupo 8 |
+| 20171446 | Leon Lopez, Patricia Chaska               | Grupo 8 |
+| 20233602 | Garcia Alarcon, Sebastian Joseph          | Grupo 8 |
+| 20220835 | Benavides Ñahuis, Isaac Aaron             | Grupo 8 |
+| 20221361 | Vela Mogollon, Franco Marcelo             | Grupo 8 |
+| 20216818 | Terrazas Montañez, Mauricio Andres        | Grupo 9 |
+| 20190126 | Pacheco Avila, Carmen Rosa                | Grupo 9 |
+| 20223002 | Zarate Mauricio, Renzo Jesus              | Grupo 9 |
+| 20205992 | Ore Pflucker, Kevin Xavier                | Grupo 9 |
+
 
 
 
