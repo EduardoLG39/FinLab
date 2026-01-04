@@ -58,7 +58,7 @@ The evaluation consists of a final work at the end of the course.
 |2|01/05/2025|Monday|09:00-12:00| Pandas-Polars-Pyspark | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> <li> Time Series </li> <li>2nd Assignmnet </li> </ul>      
 |3|01/07/2026|Wednesday|09:00-12:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
 |4|01/09/2026|Friday|09:00-12:00| Visualization| <ul>  <li>Seasborn</li>   <li>Matplotlib</li> <li>3th Assignmnet </li></ul>   
-|5|01/12/2026|Monday|09:00-12:00| Ratios and Portfolio Optimization| <ul>  <li> Ratios </li>   <li> Yahoo Data </li>   </ul> 
+|6|01/12/2026|Monday|09:00-12:00| Ratios and Portfolio Optimization| <ul>  <li> Ratios </li>   <li> Yahoo Data </li>   </ul> 
 
 
 ## X. Website
